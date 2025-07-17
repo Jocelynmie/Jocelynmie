@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jocelyn</h1>
 <h3 align="center">My name is Wenyu Yang(Jocelyn),a Computer Science Student at Northeastern University.</h3>
 
-- 🌱 I’m currently seeking for **Software Engineering**
+- 🌱  **Fullstack Software Engineer**
 
 - 📫 How to reach me **jocelynmiemiemie@gmail.com**
 
