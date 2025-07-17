@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jocelyn</h1>
 <h3 align="center">My name is Wenyu Yang(Jocelyn),a Computer Science Student at Northeastern University.</h3>
 
-- 🌱 I’m currently seeking for **Software Engineering Intern**
+- 🌱 I’m currently seeking for **Software Engineering**
 
-- 📫 How to reach me **jocelynmiemie@gmail.com**
+- 📫 How to reach me **jocelynmiemiemie@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
